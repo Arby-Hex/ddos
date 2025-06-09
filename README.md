@@ -53,7 +53,7 @@ Saya tidak bertanggung jawab atas segala dampak yang terjadi pada perangkat kamu
 
 🐢 Perangkat Menjadi Lambat/Lag
 
-📡 Koneksi Internet Terputus (jika tidak cukup kuat
+📡 Koneksi Internet Terputus (jika tidak cukup kuat)
 
 ____________________________________________________
 
