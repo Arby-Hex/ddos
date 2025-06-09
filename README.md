@@ -40,7 +40,7 @@ pip install aiohttp
 python ddos.pyc
 ```
 
-# ⚠️ PERINGATAN PENTING ⚠️
+# ⚠️ PERINGATAN PENTING
 
 > Gunakan tool ini dengan penuh tanggung jawab!
 Saya tidak bertanggung jawab atas segala dampak yang terjadi pada perangkat kamu maupun target yang kamu incar setelah menggunakan tool ini. Tool ini bersifat ekstrem dan dapat memicu berbagai masalah serius.
