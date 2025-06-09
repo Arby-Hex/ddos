@@ -40,13 +40,20 @@ pip install aiohttp
 python ddos.pyc
 ```
 
-# Pengingat⚠️
-Saya Tidak Akan Bertanggung Jawab Pada Alat Yang Kalian Gunakan Untuk Tool Ini, Karena Tool Ini Memiliki Dampak Yang Sangat Besar Pada Device Kamu Dan Target Yang Kamu Incar. Dampak Tool ini Pada Device Kalian Yaitu
+# ⚠️ PERINGATAN PENTING ⚠️
 
-••CPU PANAS••
-••MEMAKAN BANYAK RAM••
-••LAG••
-••JARINGAN TERPUTUS JIKA TIDAK KUAT••
+> Gunakan tool ini dengan penuh tanggung jawab!
+Saya tidak bertanggung jawab atas segala dampak yang terjadi pada perangkat kamu maupun target yang kamu incar setelah menggunakan tool ini. Tool ini bersifat ekstrem dan dapat memicu berbagai masalah serius.
+
+💥 POTENSI DAMPAK PADA PERANGKAT KAMU:
+
+🔥 Overheat CPU — prosesor bekerja terlalu keras
+
+💾 Penggunaan RAM yang Sangat Tinggi
+
+🐢 Perangkat Menjadi Lambat/Lag
+
+📡 Koneksi Internet Terputus (jika tidak cukup kuat
 
 ____________________________________________________
 
